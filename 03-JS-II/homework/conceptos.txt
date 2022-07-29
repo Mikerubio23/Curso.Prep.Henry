@@ -1,0 +1,6 @@
+Conceptos basicos.
+
+For: Es un bucle o una estrutura que nos permite repetir una instruccion un determinado nuimero de veces.
+
+&& || ! :Estor operadores nos permiten relizar operaciones con valores booleanos y obteniendo resultados
+booleanos.
