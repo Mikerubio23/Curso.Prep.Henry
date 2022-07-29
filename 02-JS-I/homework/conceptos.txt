@@ -1,0 +1,13 @@
+conceptos basicos
+Variables: Espacacio de memoria que toman los datos a declararse en el programa y a la cual se le da un nombre.
+
+Strings: Es un tipo de dato que puede ser un caracter o conjunto de caracteres.
+
+Funciones: Son instrucciones que se pueden utilizar varias veces en el programa. Contienen argunetos que nos permiten
+interactuar dentro de la funcion y a su vez utilizan la propiedad return para regresar el resultado.
+
+Declaraciones: Es una de las partes basicas de un codigo de programacion, ya que son estructuras o secuancias del
+programa
+
+Valores booleanos: Es un tipo de dato que se maneja en los programas, se utilizan para designar valores verdadero o
+falso (0,1).
