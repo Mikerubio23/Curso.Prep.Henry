@@ -1,0 +1,1 @@
+Arrays Es un conjunto de elementos o datos de caulquier tipo e identificados con un indice a diferencia de los objetos
