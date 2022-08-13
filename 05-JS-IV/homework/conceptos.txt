@@ -1,0 +1,10 @@
+Conceptos basicos
+Objetos: Es iun rgistro de datos relacionados con un nombre y un valor.
+
+Propiedades: Son los elementos qe contiene un objeto en javascript, estos a su ves tienen un valor que puede ser cualquier tipo de dato.
+
+Metodos: Dentro del manejo de objetos en javascript se utilizan las funciones a las cuales les llamaremos metodos.
+
+Bucle for in: Es una forma de realizar un recorrido dentro de un objeto sustituyendo al for en arreglos.
+
+Notacion de puntos VS Notacion de corchetes: La funcion puede ser la misma, la de puntos mas facil de escribir, pero encontraremos situaciones que tengamos que usar corchetes.
