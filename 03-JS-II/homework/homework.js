@@ -162,7 +162,7 @@ function esPrimo(numero) {
   // Pista 2: Puedes resolverlo usando un bucle `for`
   // Nota: Los números 0 y 1 NO son considerados números primos
   if (numero === 0 || numero === 1 ) return false;
-  for (var i =2; i < numero; i++ ){
+  for (var i =2; i < numero; i++ ){  
     if (numero % i===0 )return false;
   }
   return true;
@@ -215,7 +215,7 @@ return acu;
 }
 
 
-// No modificar nada debajo de esta línea
+// No modificar nada debajo  de esta línea
 // --------------------------------
 
 module.exports = {

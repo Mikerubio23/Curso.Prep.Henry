@@ -80,7 +80,16 @@ function capicua(numero){
     return "No es capicua"
   }
 }
-
+  // var string = numero.toString()
+  // var stringInvertida = ""
+  // for (var i = string.length -1; i--){
+  // stringInvertida = stringInvertida + string[i];
+  //}
+  // if (string === stringInvertida){
+  //   return "Es capicua"
+  // }else{
+  //   return "No es capicua"
+  // }
 
 function deleteAbc(cadena){
   //Define una función que elimine las letras "a", "b" y "c" de la cadena dada 
@@ -114,6 +123,18 @@ function sortArray(arr) {
   }
   return arr;
 } 
+// arr.sort(function(a,b){       retorna -1 --> a, b
+  // if(a.length>b.length){      retorna 1  ..> b, a
+  //   return 1;                 retorna 0 --> a, b
+  // }
+  // if(a.length<b.length){
+  //   return -1;
+  // }  
+  // if(a.length===b.length){
+  //   return 0;
+  // }
+  // });
+  // return arr;
 
 
 function buscoInterseccion(arreglo1, arreglo2){

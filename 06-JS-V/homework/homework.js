@@ -43,6 +43,7 @@ function agregarStringInvertida() {
     return stringInvertida;
   }
 }
+// return this.split("").reverse().join("");
 
 // ---------------------------------------------------------------------------//
   //Crea el constructor de la clase "Persona"
